@@ -9,7 +9,7 @@ This is one of my favorite platformers to exist, and I think it'd be an interest
   - This means General Barrel is at 10 (and Vehicle Key), Generoll Barrel is at 20 (and Ice Key), and Falcon Lover is at 30 (and Africa Key).
 
 ## Goal
-- Defeat King Barrel in the final level, "Final Showdown". You must obtain 40 patches to battle him.
+- Defeat King Barrel in the final level, "Final Showdown". You must obtain 40 patches (and the Moon Key) to battle him.
 
 ## Items
 - Characters
