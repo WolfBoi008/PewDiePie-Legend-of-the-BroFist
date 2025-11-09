@@ -1,0 +1,170 @@
+{
+  "Pewd's House": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Highway Frenzy": {
+    
+		"connects_to": [],
+    
+		"requires": "|Vehicle Key|"
+  },
+  "Jet Fighter": {
+    
+		"connects_to": [],
+    
+		"requires": "|Vehicle Key| AND |@Patches:10|"
+  },
+  "Nostalgia Skies": {
+    
+		"connects_to": [],
+    
+		"requires": "|Nostalgia Key|"
+  },
+  "Abandoned Subway": {
+    
+		"connects_to": [],
+    
+		"requires": "|Vehicle Key|"
+  },
+  "Glaciers": {
+    
+		"connects_to": [],
+    
+		"requires": "|Ice Key|"
+  },
+  "Hurry Up!": {
+    
+		"connects_to": [],
+    
+		"requires": "|Ice Key|"
+  },
+  "Windy Scenario": {
+    
+		"connects_to": [],
+    
+		"requires": "|Ice Key|"
+  },
+  "Yeti's Mountain": {
+    
+		"connects_to": [],
+    
+		"requires": "|Ice Key|"
+  },
+  "Generoll Barrel": {
+    
+		"connects_to": [],
+    
+		"requires": "|Ice Key| AND |@Patches:20|"
+  },
+  "Mines Entrance": {
+    
+		"connects_to": [],
+    
+		"requires": "|Cave Key|"
+  },
+  "Deep in the Mines": {
+    
+		"connects_to": [],
+    
+		"requires": "|Cave Key|"
+  },
+  "Tree Tops": {
+    
+		"connects_to": [],
+    
+		"requires": "|Forest Key|"
+  },
+  "Nostalgia Clouds": {
+    
+		"connects_to": [],
+    
+		"requires": "|Nostalgia Key|"
+  },
+  "Nostalgia Spikes": {
+    
+		"connects_to": [],
+    
+		"requires": "|Nostalgia Key|"
+  },
+  "Transylvania": {
+    
+		"connects_to": [],
+    
+		"requires": "|Forest Key|"
+  },
+  "Savannah Chase": {
+    
+		"connects_to": [],
+    
+		"requires": "|Africa Key|"
+  },
+  "The Headhunter": {
+    
+		"connects_to": [],
+    
+		"requires": "|Africa Key| AND |@Patches:30|"
+  },
+  "UFO Computer": {
+    
+		"connects_to": [],
+    
+		"requires": "|Alien Key|"
+  },
+  "Barrel Base": {
+    
+		"connects_to": [],
+    
+		"requires": "|Moon Key|"
+  },
+  "Deep in the Base": {
+    
+		"connects_to": [],
+    
+		"requires": "|Moon Key|"
+  },
+  "Final Showdown": {
+    
+		"connects_to": [],
+    
+		"requires": "|Moon Key| AND |@Patches:40|"
+  },
+  "PewDiePie's Paradise Island": {
+    
+		"connects_to": [],
+    
+		"requires": []
+  },
+  "Pumpkin Hollow": {
+    
+		"connects_to": [],
+    
+		"requires": "|Seasonal Key|"
+  },
+  "Holiday Vertigo": {
+    
+		"connects_to": [],
+    
+		"requires": "|Seasonal Key|"
+  },
+  "Log House": {
+    
+		"connects_to": [],
+    
+		"requires": "|Seasonal Key|"
+  },
+  "Love is in the Air": {
+    
+		"connects_to": [],
+    
+		"requires": "|Seasonal Key|"
+  },
+  "On The Moon": {
+    
+		"connects_to": [],
+    
+		"requires": "|Moon Key|"
+  }
+}
