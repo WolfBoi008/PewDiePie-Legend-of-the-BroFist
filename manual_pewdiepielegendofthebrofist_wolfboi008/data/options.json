@@ -7,7 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
+            "description": "Choose your victory condition.\nYou can choose to either defeat the final boss, King Barrel, or collect a chosen number of Patches.",
             "hidden": false
         },
         "death_link": {
@@ -15,6 +15,18 @@
         },
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
+        }
+    },
+    "user": {
+        "patch_goal_count": {
+            "display_name": "Patch Goal Count",
+            "description": [
+                "If your Goal is to collect Patches, this determines how many you need to collect to Goal your game."
+            ],
+            "type": "Range",
+            "range_start": 1,
+            "default": 50,
+            "range_end": 58
         }
     }
 }

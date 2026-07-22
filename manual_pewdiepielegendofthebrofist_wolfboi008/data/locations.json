@@ -869,8 +869,6 @@
     
 		"name": "Deep in the Base - Patch #2",
     
-		"victory": false,
-    
 		"category": [
       "Deep in the Base"
     ],
@@ -1079,12 +1077,12 @@
 		"requires": []
   },
   {
-	"name": "Collect 50 Patches",
+	"name": "Collect Patches",
 	"region": "Final Showdown",
 	"category": [
 		"Goal"
 	],
-	"requires": "|@Patches:50|",
+	"requires": "{OptionCount(@Patches, patch_goal_count)}",
 	"victory": true
   }
 ]

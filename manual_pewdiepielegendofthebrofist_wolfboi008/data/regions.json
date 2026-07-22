@@ -113,6 +113,12 @@
     
 		"requires": "|Alien Key|"
   },
+  "On The Moon": {
+    
+		"connects_to": [],
+    
+		"requires": "|Moon Key|"
+  },
   "Barrel Base": {
     
 		"connects_to": [],
@@ -160,11 +166,5 @@
 		"connects_to": [],
     
 		"requires": "|Seasonal Key|"
-  },
-  "On The Moon": {
-    
-		"connects_to": [],
-    
-		"requires": "|Moon Key|"
   }
 }
